@@ -1,0 +1,6 @@
+Kanal ID, Kanaltyp, Frequenz (MHz), Modulation, Send. Signalstaerke (dBmV), Ranging Status
+1, SC-QAM, 59, 64QAM, 43.5, Erfolgreich
+4, SC-QAM, 36, 32QAM, 43.5, Erfolgreich
+3, SC-QAM, 46, 64QAM, 43.5, Erfolgreich
+2, SC-QAM, 52, 64QAM, 43.5, Erfolgreich
+
